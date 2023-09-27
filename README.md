@@ -9,7 +9,7 @@ This code was developed for educational purposes. Do not use for illegal purpose
 Prerequirments :
 
 - Aircrack-ng : `sudo apt install aircrack-ng`
-- Pip Librarys: 'pip3 install -r requirements.txt'
+- Pip Librarys : 'pip3 install -r requirements.txt'
 
 Open terminal.....
 
