@@ -2,7 +2,7 @@
 Automatic WPA/WPA2 Handshake Catcher
 
 This code was developed for educational purposes. Do not use for illegal purposes.
-
+![Network interface](Photos/banner.png)
 Prerequirments :
 
 - Aircrack-ng : `sudo apt install aircrack-ng`
