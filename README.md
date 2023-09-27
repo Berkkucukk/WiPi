@@ -7,9 +7,8 @@ This code was developed for educational purposes. Do not use for illegal purpose
 </p>
 
 Prerequirments :
-
 - Aircrack-ng : `sudo apt install aircrack-ng`
-- **Pip Librarys** for 'pip3 install -r requirements.txt'
+- Python : `pip3 install -r requirements.txt`
 
 Open terminal.....
 
