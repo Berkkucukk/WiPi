@@ -3,6 +3,10 @@ Automatic WPA/WPA2 Handshake Catcher
 
 This code was developed for educational purposes. Do not use for illegal purposes.
 ![Network interface](Photos/banner.png)
+<p align="center">
+  <img src="Photos/banner.png" alt="alternatif metin" width="200" height="200" />
+</p>
+
 Prerequirments :
 
 - Aircrack-ng : `sudo apt install aircrack-ng`
