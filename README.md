@@ -16,4 +16,4 @@ Prerequirments :
 ![Network interface](Photos/open_page.png)
 ![Network interface](Photos/scan.png)
 ![Network interface](Photos/founded.png)
-![Network interface](Photos/Photos/capture_handshake.png)
+![Network interface](Photos/capture_handshake.png)
